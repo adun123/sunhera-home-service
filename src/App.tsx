@@ -89,13 +89,13 @@ export default function Home() {
           </div>
 
           {/* Foto orang */}
-          {/* <div className="flex justify-center md:justify-end">
+          <div className="flex justify-center md:justify-end">
             <img
               src="public/images/bg-teknisi.png"
               alt="Foto Teknisi"
               className="rounded-2xl shadow-lg object-cover"
             />
-          </div> */}
+          </div>
         </div>
       </section>
 
