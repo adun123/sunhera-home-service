@@ -9,71 +9,71 @@ export default function Services() {
 
   const data = {
     service: [
-       {
+      {
         name: "Mesin Cuci",
-        desc: "Perbaikan mesin cuci rusak atau bocor dengan teknisi ahli.",
-        img: "https://via.placeholder.com/300x200.png?text=Mesin+Cuci",
+        desc: "Perbaikan mesin cuci rusak, bocor, atau tidak berputar dengan teknisi berpengalaman.",
+        img: "/service/service-mesincuci.png",
       },
       {
         name: "Kompor",
-        desc: "Service kompor gas & listrik dengan penanganan aman.",
-        img: "https://via.placeholder.com/300x200.png?text=Kompor",
+        desc: "Service kompor gas dan listrik, menangani masalah api kecil, bocor, atau tidak menyala.",
+        img: "/service/service-kompor.png",
       },
       {
         name: "Kulkas",
-        desc: "Perbaikan kulkas segala merk dengan cepat dan rapi.",
-        img: "https://via.placeholder.com/300x200.png?text=Kulkas",
+        desc: "Perbaikan kulkas berbagai merk, mengatasi tidak dingin, bocor, atau suara bising.",
+        img: "/service/service-kulkas.png",
       },
       {
         name: "AC",
-        desc: "Service AC cepat, profesional, dan bergaransi.",
-        img: "https://via.placeholder.com/300x200.png?text=AC",
+        desc: "Service dan isi freon AC dengan cepat, profesional, dan bergaransi.",
+        img: "/service/service-ac.png",
       },
       {
         name: "Water Heater",
-        desc: "Perbaikan water heater untuk mandi nyaman setiap hari.",
-        img: "https://via.placeholder.com/300x200.png?text=AC",
+        desc: "Perbaikan water heater mati, bocor, atau tidak panas agar mandi tetap nyaman.",
+        img: "/service/service-waterheater.png",
       },
-       {
+      {
         name: "Dispenser",
-        desc: "Per ",
-        img: "https://via.placeholder.com/300x200.png?text=AC",
+        desc: "Perbaikan dispenser yang tidak mengeluarkan air atau tidak panas/dingin dengan cepat dan rapi.",
+        img: "/service/service-dispenser.png",
       },
-     
-    
     ],
+
     perawatan: [
       {
         name: "Mesin Cuci",
-        desc: "Perawatan rutin agar performa mesin cuci tetap maksimal.",
-        img: "https://via.placeholder.com/300x200.png?text=Mesin+Cuci",
+        desc: "Perawatan rutin agar performa mesin cuci tetap maksimal dan bebas bau.",
+        img: "/perawatan/perawatan-mesincuci.png",
       },
-       {
+      {
         name: "Kompor",
-        desc: ":Perawatan  ",
-        img: "https://via.placeholder.com/300x200.png?text=Mesin+Cuci",
+        desc: "Pembersihan menyeluruh pada tungku dan saluran gas untuk menjaga keamanan serta efisiensi panas.",
+        img: "/perawatan/perawatan-kompor.png",
       },
-        {
+      {
         name: "AC",
-        desc: ":Perawatan  ",
-        img: "https://via.placeholder.com/300x200.png?text=Mesin+Cuci",
+        desc: "Membersihkan filter dan unit AC agar udara tetap sejuk, bersih, dan hemat listrik.",
+        img: "/perawatan/perawatan-ac.png",
       },
-        {
+      {
         name: "Kulkas",
-        desc: ":Perawatan  ",
-        img: "https://via.placeholder.com/300x200.png?text=Mesin+Cuci",
+        desc: "Perawatan rutin untuk menjaga suhu stabil dan mencegah bau tak sedap di dalam kulkas.",
+        img: "/perawatan/perawatan-kulkas.png",
       },
       {
         name: "Dispenser",
-        desc: "Pembersihan dispenser agar tetap higienis dan tahan lama.",
-        img: "https://via.placeholder.com/300x200.png?text=Dispenser",
+        desc: "Pembersihan dispenser agar tetap higienis dan aman digunakan setiap hari.",
+        img: "/perawatan/perawatan-dispenser.png",
       },
       {
         name: "Water Heater",
-        desc: ":Perawatan  ",
-        img: "https://via.placeholder.com/300x200.png?text=Mesin+Cuci",
+        desc: "Perawatan sistem pemanas air agar tetap efisien dan memperpanjang usia pemakaian.",
+        img: "/perawatan/perawatan-waterheater.png",
       },
     ],
+
   };
 
   return (
@@ -183,7 +183,7 @@ export default function Services() {
                 <div className="p-4 border-t text-center bg-gray-50">
                   <p className="text-sm text-gray-600 mb-3">{item.desc}</p>
                   <a
-                    href="https://wa.me/6281234567890"
+                    href="https://wa.me/6285150973294"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 bg-emerald-500 hover:bg-emerald-600 text-white px-4 py-2 rounded-lg font-medium transition"
