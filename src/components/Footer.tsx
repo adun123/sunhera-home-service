@@ -5,7 +5,7 @@ export default function Footer() {
         {/* Brand & Deskripsi */}
         <div>
           <h2 className="text-xl font-bold text-white mb-3">
-            Sunhera Home Service
+            Sunera Home Service
           </h2>
           <p className="text-sm leading-relaxed">
             Platform tepercaya dalam penyedia jasa service & perawatan rumah
@@ -57,12 +57,12 @@ export default function Footer() {
           <h3 className="text-lg font-semibold text-white mb-3">Kontak</h3>
           <ul className="space-y-2 text-sm">
             <li>Layanan Pengaduan Konsumen</li>
-            <li>CS Sunhera Home Service</li>
-            <li>📞 +62-812-3456-7890</li>
+            <li>CS Sunera Home Service</li>
+            <li>📞 +62-8515-0973-29</li>
             <li>✉️ cs@sunerahomeservice.com</li>
             <li>Direktorat Jenderal Perlindungan Konsumen</li>
             <li>Kementerian Perdagangan Republik Indonesia</li>
-            <li>📞 +62-853-1111-1010</li>
+            <li>📞 +62-8515-0973-29</li>
           </ul>
         </div>
       </div>
@@ -73,7 +73,7 @@ export default function Footer() {
           Syarat dan Ketentuan | Kebijakan Privasi
         </p>
         <p className="mt-2">
-          © 2025 Sunhera Home Service. All rights reserved.
+          © 2025 Sunera Home Service. All rights reserved.
         </p>
       </div>
     </footer>

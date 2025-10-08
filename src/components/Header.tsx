@@ -33,7 +33,7 @@ export default function Header() {
         <div className="flex-1 flex justify-center md:justify-start">
           <img
             src="/logo/logo-sunera.png"
-            alt="Sunhera Logo"
+            alt="Sunera Logo"
             className="h-16 md:h-20 object-contain"
           />
         </div>
@@ -80,14 +80,18 @@ export default function Header() {
           menuOpen ? "translate-x-0" : "translate-x-full"
         }`}
       >
-        <div className="flex flex-col h-full items-center justify-center space-y-8 text-white text-lg font-semibold">
+        <div className="flex flex-col h-full items-center justify-center space-y-8 text-black text-lg font-semibold">
           {[
-            { id: "hero", label: "Home" },
+            { id: "", label: "" },
             
-            { id: "layanan", label: "Layanan" },
+            { id: "", label: "" },
+            { id: "", label: "jasa kami " },
+
             { id: "services", label: "Jasa Kami" },
+            { id: "layanan", label: "Layanan" },
             { id: "galeri", label: "Galeri" },
             { id: "testimoni", label: "Testimoni" },
+            
           ].map((link, i) => (
             <button
               key={link.id}
