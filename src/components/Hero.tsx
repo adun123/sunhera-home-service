@@ -26,7 +26,7 @@ const slides: Slide[] = [
     description: "Jaga dispenser Anda tetap bersih, dingin, dan aman digunakan.",
   },
   {
-    image: "/images/bg-all.png",
+    image: "/images/bg-home3.jpeg",
     title: "Layanan Lengkap Elektronik Rumah",
     description: "Dari AC, kulkas, hingga kompor – kami siap membantu semua kebutuhan Anda.",
   },
