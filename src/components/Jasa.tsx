@@ -79,7 +79,7 @@ export default function Services() {
       {
         name: "Pembuatan Sumur Bor",
         desc: "Pembuatan sumur bor untuk kebutuhan air bersih dengan metode modern dan efisien.",
-        img: "/borsumur/sumurbor.jpeg",
+        img: "/borsumur/sumurbor.png",
       },
       {
         name: "Penangkal Petir",
@@ -108,7 +108,7 @@ export default function Services() {
               <li className="flex items-center gap-2"><FaCheckCircle className="text-sky-600" /> Bisa panggilan ke rumah</li>
             </ul>
             <p className="font-semibold text-lg">
-              Harga mulai dari <span className="text-sky-600 font-bold">Rp200.000</span>
+              Harga mulai dari <span className="text-sky-600 font-bold">Rp150.000</span>
             </p>
           </div>
 
@@ -121,7 +121,7 @@ export default function Services() {
               <li className="flex items-center gap-2"><FaCheckCircle className="text-emerald-600" /> Bikin peralatan lebih awet</li>
             </ul>
             <p className="font-semibold text-lg">
-              Harga mulai dari <span className="text-emerald-600 font-bold">Rp150.000</span>
+              Harga mulai dari <span className="text-emerald-600 font-bold">Rp200.000</span>
             </p>
           </div>
 
@@ -129,14 +129,27 @@ export default function Services() {
           <div className="bg-white rounded-2xl p-10 shadow-md border border-gray-200 hover:shadow-xl hover:-translate-y-2 transition-all duration-300">
             <h3 className="text-2xl font-bold mb-5 text-indigo-700">Jasa Bor Sumur</h3>
             <ul className="space-y-2 mb-6 text-gray-600">
-              <li className="flex items-center gap-2"><FaCheckCircle className="text-indigo-600" /> Pengeboran modern & efisien</li>
-              <li className="flex items-center gap-2"><FaCheckCircle className="text-indigo-600" /> Kualitas air bersih terjamin</li>
-              <li className="flex items-center gap-2"><FaCheckCircle className="text-indigo-600" /> Dikerjakan oleh ahli berpengalaman</li>
+              <li className="flex items-center gap-2">
+                <FaCheckCircle className="text-indigo-600" /> Pengeboran modern & efisien
+              </li>
+              <li className="flex items-center gap-2">
+                <FaCheckCircle className="text-indigo-600" /> Kualitas air bersih terjamin
+              </li>
+              <li className="flex items-center gap-2">
+                <FaCheckCircle className="text-indigo-600" /> Dikerjakan oleh ahli berpengalaman
+              </li>
             </ul>
-            <p className="font-semibold text-lg">
-              Harga mulai dari <span className="text-indigo-600 font-bold">Rp500.000</span>
-            </p>
+
+            <a
+              href="https://wa.me/6281234567890?text=Halo%20Admin%2C%20saya%20ingin%20menanyakan%20lebih%20lanjut%20tentang%20jasa%20bor%20sumur."
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block mt-3 px-5 py-2 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition"
+            >
+              💬 Tanyakan Lebih Lanjut
+            </a>
           </div>
+
         </div>
 
         {/* Tabs */}

@@ -5,7 +5,7 @@ export default function Footer() {
         {/* Brand & Deskripsi */}
         <div>
           <h2 className="text-xl font-bold text-white mb-3">
-            Sunera Home Service
+            Sunera Teknik
           </h2>
           <p className="text-sm leading-relaxed">
             Platform tepercaya dalam penyedia jasa service & perawatan rumah
@@ -20,7 +20,7 @@ export default function Footer() {
           </h3>
           <ul className="space-y-2 text-sm">
             <li>
-              <a href="#" className="hover:text-white transition">
+              <a href="#home" className="hover:text-white transition">
                 Beranda
               </a>
             </li>
@@ -34,21 +34,23 @@ export default function Footer() {
                 Tentang Kami
               </a>
             </li>
-            <li>
-              <a href="#testimoni" className="hover:text-white transition">
-                Testimoni
-              </a>
-            </li>
+          
             <li>
               <a href="#faq" className="hover:text-white transition">
                 FAQ
               </a>
             </li>
-            <li>
-              <a href="#mitra" className="hover:text-white transition">
-                Gabung Jadi Mitra
-              </a>
-            </li>
+          <li>
+            <a
+              href="https://wa.me/6285150973294?text=Halo%20Admin%2C%20saya%20ingin%20bergabung%20menjadi%20mitra%20Sunhera."
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white transition"
+            >
+              Gabung Jadi Mitra
+            </a>
+          </li>
+
           </ul>
         </div>
 
@@ -57,12 +59,12 @@ export default function Footer() {
           <h3 className="text-lg font-semibold text-white mb-3">Kontak</h3>
           <ul className="space-y-2 text-sm">
             <li>Layanan Pengaduan Konsumen</li>
-            <li>CS Sunera Home Service</li>
-            <li>📞 +62-8515-0973-29</li>
-            <li>✉️ cs@sunerahomeservice.com</li>
+            <li>CS Sunera Teknik</li>
+            <li>📞 +62-851-5097-3294</li>
+            <li>✉️ cs@sunerateknik.com</li>
             <li>Direktorat Jenderal Perlindungan Konsumen</li>
             <li>Kementerian Perdagangan Republik Indonesia</li>
-            <li>📞 +62-8515-0973-29</li>
+            <li>📞 +62-851-5097-3294</li>
           </ul>
         </div>
       </div>
@@ -73,7 +75,7 @@ export default function Footer() {
           Syarat dan Ketentuan | Kebijakan Privasi
         </p>
         <p className="mt-2">
-          © 2025 Sunera Home Service. All rights reserved.
+          © 2025 Sunera Teknik. All rights reserved.
         </p>
       </div>
     </footer>
