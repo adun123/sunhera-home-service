@@ -46,7 +46,7 @@ export default function Testimoni() {
               />
               <div>
                 <h4 className="font-semibold">Budi Santoso</h4>
-                <span className="text-sm text-gray-500">Pamulang</span>
+                <span className="text-sm text-gray-500">Dan Mogot</span>
               </div>
             </div>
           </div>
