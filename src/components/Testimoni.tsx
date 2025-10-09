@@ -46,7 +46,7 @@ export default function Testimoni() {
               />
               <div>
                 <h4 className="font-semibold">Budi Santoso</h4>
-                <span className="text-sm text-gray-500">Jakarta</span>
+                <span className="text-sm text-gray-500">Pamulang</span>
               </div>
             </div>
           </div>
@@ -64,7 +64,7 @@ export default function Testimoni() {
               />
               <div>
                 <h4 className="font-semibold">Siti Aminah</h4>
-                <span className="text-sm text-gray-500">Bandung</span>
+                <span className="text-sm text-gray-500">BSD</span>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@ export default function Testimoni() {
               />
               <div>
                 <h4 className="font-semibold">Agus Pratama</h4>
-                <span className="text-sm text-gray-500">Surabaya</span>
+                <span className="text-sm text-gray-500">Bintaro</span>
               </div>
             </div>
           </div>
@@ -100,7 +100,7 @@ export default function Testimoni() {
               />
               <div>
                 <h4 className="font-semibold">Lina Marlina</h4>
-                <span className="text-sm text-gray-500">Depok</span>
+                <span className="text-sm text-gray-500">Tangsel</span>
               </div>
             </div>
           </div>
