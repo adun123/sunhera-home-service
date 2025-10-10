@@ -14,7 +14,7 @@ interface StatItem {
 export default function Statistik() {
   const [stats, setStats] = useState<StatItem[]>([
     { icon: <FaUsers />, value: 0, label: "Total Customer", target: 50 },
-    { icon: <MdDevices />, value: 0, label: "Perangkat Ditangani", target: 30 },
+    { icon: <MdDevices />, value: 0, label: "Perangkat Ditangani", target: 25 },
     { icon: <FaTools />, value: 0, label: "Teknisi Profesional", target: 15 },
     { icon: <FaAward />, value: 0, label: "Tahun Pengalaman", target: 5 },
   ]);

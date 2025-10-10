@@ -11,26 +11,26 @@ export default function BeforeAfter() {
     { id: 4, category: "mesin-cuci", before: "/galeri/mesincuci/before-mesincuci4.jpeg", after: "/galeri/mesincuci/after-mesincuci4.jpeg" },
     { id: 5, category: "mesin-cuci", before: "/galeri/mesincuci/before-mesincuci5.jpeg", after: "/galeri/mesincuci/after-mesincuci5.jpeg" },
 
-    // 🧊 Kulkas
-    { id: 6, category: "kulkas", before: "/galeri/kulkas/before-kulkas1.jpeg", after: "/galeri/kulkas/after-kulkas1.jpeg" },
-    { id: 7, category: "kulkas", before: "/galeri/kulkas/before-kulkas2.jpeg", after: "/galeri/kulkas/after-kulkas2.jpeg" },
-    { id: 8, category: "kulkas", before: "/galeri/kulkas/before-kulkas3.jpeg", after: "/galeri/kulkas/after-kulkas23.jpeg" },
-    { id: 9, category: "kulkas", before: "/galeri/kulkas/before-kulkas4.jpeg", after: "/galeri/kulkas/after-kulkas24.jpeg" },
-    { id: 10, category: "kulkas", before: "/galeri/kulkas/before-kulkas5.jpeg", after: "/galeri/kulkas/after-kulkas25.jpeg" },
+    // 🧊 dispenser
+    { id: 6, category: "dispenser", before: "/galeri/dispenser/before-dispenser1.jpeg", after: "/galeri/dispenser/after-dispenser1.jpeg" },
+    // { id: 7, category: "dispenser", before: "/galeri/dispenser/before-dispenser2.jpeg", after: "/galeri/dispenser/after-dispenser2.jpeg" },
+    // { id: 8, category: "dispenser", before: "/galeri/dispenser/before-dispenser2.jpeg", after: "/galeri/dispenser/after-dispenser3.jpeg" },
+    // { id: 9, category: "dispenser", before: "/galeri/dispenser/before-dispenser4.jpeg", after: "/galeri/dispenser/after-dispenser4.jpeg" },
+    // { id: 10, category: "dispenser", before: "/galeri/dispenser/before-dispenser5.jpeg", after: "/galeri/dispenser/after-dispenser5.jpeg" },
 
     // 💧 Dispenser
     { id: 11, category: "kompor", before: "/galeri/kompor/before-kompor1.jpeg", after: "/galeri/kompor/after-kompor1.jpeg" },
-    { id: 12, category: "kompor", before: "/galeri/kompor/before-kompor2.jpeg", after: "/galeri/kompor/after-kompor2.jpeg" },
-    { id: 13, category: "kompor", before: "/galeri/kompor/before3.jpeg", after: "/galeri/kompor/after-kompor3.jpeg" },
-    { id: 14, category: "kompor", before: "/galeri/kompor/before4.jpeg", after: "/galeri/kompor/after-kompor4.jpeg" },
-    { id: 15, category: "kompor", before: "/galeri/kompor/before5.jpeg", after: "/galeri/kompor/after-kompor5.jpeg" },
+    // { id: 12, category: "kompor", before: "/galeri/kompor/before-kompor2.jpeg", after: "/galeri/kompor/after-kompor2.jpeg" },
+    // { id: 13, category: "kompor", before: "/galeri/kompor/before3.jpeg", after: "/galeri/kompor/after-kompor3.jpeg" },
+    // { id: 14, category: "kompor", before: "/galeri/kompor/before4.jpeg", after: "/galeri/kompor/after-kompor4.jpeg" },
+    // { id: 15, category: "kompor", before: "/galeri/kompor/before5.jpeg", after: "/galeri/kompor/after-kompor5.jpeg" },
 
     // 🌬️ AC
-    { id: 16, category: "ac", before: "/galeri/ac/before1.jpeg", after: "/galeri/ac/after1.jpeg" },
-    { id: 17, category: "ac", before: "/galeri/ac/before2.jpeg", after: "/galeri/ac/after2.jpeg" },
-    { id: 18, category: "ac", before: "/galeri/ac/before3.jpeg", after: "/galeri/ac/after3.jpeg" },
-    { id: 19, category: "ac", before: "/galeri/ac/before4.jpeg", after: "/galeri/ac/after4.jpeg" },
-    { id: 20, category: "ac", before: "/galeri/ac/before5.jpeg", after: "/galeri/ac/after5.jpeg" },
+    { id: 16, category: "ac", before: "/galeri/ac/before-ac1.jpeg", after: "/galeri/ac/after-ac1.jpeg" },
+    { id: 17, category: "ac", before: "/galeri/ac/before-ac2.jpeg", after: "/galeri/ac/after-ac2.jpeg" },
+    { id: 18, category: "ac", before: "/galeri/ac/before-ac3.jpeg", after: "/galeri/ac/after-ac3.jpeg" },
+    { id: 19, category: "ac", before: "/galeri/ac/before-ac4.jpeg", after: "/galeri/ac/after-ac4.jpeg" },
+
     // 🌬️ AC
     { id: 21, category: "Water Heater", before: "/galeri/waterheater/before-waterheater1.jpeg", after: "/galeri/waterheater/after-waterheater1.jpeg" },
     { id: 22, category: "Water Heater", before: "/galeri/waterheater/before-waterheater2.jpeg", after: "/galeri/waterheater/after-waterheater2.jpeg" },
