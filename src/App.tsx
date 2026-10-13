@@ -6,6 +6,7 @@ import Services from "./components/Jasa";
 import Galeri from "./components/Galeri";
 import Testimoni from "./components/Testimoni";
 import Footer from "./components/Footer";
+import About from "./components/About";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Header />
 
       <section id="hero"><Hero /></section>
+      <section><About/></section>
       <section id="statistik"><Statistik /></section>
       <section id="layanan"><Layanan /></section>
       <section id="services"><Services /></section>
